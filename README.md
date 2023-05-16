@@ -2,7 +2,7 @@
 
 ## manually
 
-just copy the content of file `dark.conf` inside of default.conf of CodeBlocks configs
+just copy the content between tag `editor` of file `dark.conf` inside of default.conf of CodeBlocks configs
 at section
 
 ```XML
